@@ -49,6 +49,11 @@ h2 {
   width: 75%;
   float: left;
   padding-right: 30px;
+  position: relative;
+}
+
+.links {
+  margin-bottom: 25px;
 }
 
 .other-posts {
@@ -76,4 +81,10 @@ h2 {
   height: 150px;
   width: auto;
   margin-bottom: 25px;
+}
+
+.date {
+  position: absolute;
+  top: 75px;
+  right: 30px;
 }
